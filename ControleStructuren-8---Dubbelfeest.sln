@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleStructuren-8---Dubbelfeest", "ControleStructuren-8---Dubbelfeest\ControleStructuren-8---Dubbelfeest.csproj", "{9626532F-78E0-42C1-A1A8-33348348F84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9626532F-78E0-42C1-A1A8-33348348F84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9626532F-78E0-42C1-A1A8-33348348F84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9626532F-78E0-42C1-A1A8-33348348F84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9626532F-78E0-42C1-A1A8-33348348F84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {411A300E-595B-4D20-BAC2-AF909167376F}
+	EndGlobalSection
+EndGlobal
